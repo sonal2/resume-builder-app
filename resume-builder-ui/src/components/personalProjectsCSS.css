@@ -1,0 +1,42 @@
+.container {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+}
+
+
+.form-group {
+    display: flex;
+    align-items: flex-start;
+    width: 100vw;
+}
+
+.personalProjectsFormGroup {
+    margin-bottom: 100px;
+}
+
+.personalProjectsDivider {
+    margin-top: 50px;
+}
+
+.personalProjects {
+   font-size: 2em;
+}
+
+#plus {
+    cursor: pointer;
+}
+
+input {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+label {
+    margin-right: 5px;
+    padding: 5px;
+}
+
+.form-group {
+    margin-top: 15px;
+}

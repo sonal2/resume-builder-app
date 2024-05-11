@@ -1,0 +1,18 @@
+.education{
+    margin-top: 50px;
+}
+
+
+
+
+button {
+    margin-top: 20px;
+    margin-left: 10%;
+    color: black;
+    background-color: lightskyblue !important;
+    padding: 10px !important;
+}
+
+button:hover {
+    background-color: lightblue !important;
+}
